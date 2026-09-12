@@ -1,6 +1,6 @@
 # Step_semester_3
 step program weekly assignments (java)
-## Date: 08-08-2026
+## Date: 22-08-2026
 
 **Today's Work:**
 
@@ -23,32 +23,43 @@ step program weekly assignments (java)
 - Faced issues while moving the Control Flow class problems into the Week 3 package and organizing the Git branches.
 
 - Corrected the package and branch structure according to the required workflow.
-
 ---
 
-## Date: 01-08-2026
+## Date: 08-08-2026
 
-**Today's Work:**
+### Today's Work:
 
 - Completed Week 2 class problems.
-
 - Completed Week 2 assignment problems.
+- Practiced strings, loops, validation, and conditional logic.
+- Practiced string manipulation and formatting.
 
-- Organized the problems into the Week 2 class and assignment packages.
+### Next Session Plan:
 
-- Added the Week 2 work to the feature/session\_2 branch.
-
-**Next Session Plan:**
-
-- Continue with Week 3 Control Flow problems.
-
+- Continue with Week 3 problems.
 - Maintain the required feature branch structure.
 
-**Issues Faced:**
+### Issues Faced:
 
-- Faced some Git branching and package organization issues while setting up the session.
-
-- Corrected the branch and package organization before continuing.
-
+- Faced some difficulties with string validation and manipulation.
+- Reviewed and corrected the implementations.
 ---
+## Date: 01-08-2026
+
+### Today's Work:
+
+- Completed Week 1 class problems.
+- Completed Week 1 assignment problems.
+- Practiced arrays, strings, loops, and conditional logic.
+- Organized the completed Week 1 work.
+
+### Next Session Plan:
+
+- Continue with Week 2 problems.
+- Maintain the required feature branch structure.
+
+### Issues Faced:
+
+- Faced some difficulties with string and array logic.
+- Reviewed and corrected the implementations.
 
