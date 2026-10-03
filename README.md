@@ -1,5 +1,30 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 05-09-2026
+
+**Today's Work:**
+
+- Completed Week 5 Java Arrays and Methods class problems.
+
+- Organized the Java Arrays and Methods class problems under the Week 5 package.
+
+- Completed problems on arrays, strings, nested loops, methods, and 2D arrays.
+
+- Completed assignment problems on array modification, duplicate checking, min/max tracking, 2D array analysis, method overloading, and ranking.
+
+**Next Session Plan:**
+
+- Continue with the next session's programming problems.
+
+- Maintain the required GitHub branching and package structure.
+
+**Issues Faced:**
+
+- Faced issues while implementing some Java problems involving arrays, methods, and nested loops.
+
+- Corrected the implementations according to the required workflow.
+
+---
 ## Date: 29-08-2026
 
 **Today's Work:**
