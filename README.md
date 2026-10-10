@@ -1,6 +1,32 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 19-09-2026
+
+**Today's Work:**
+
+- Completed Week 7 Encapsulation class problems.
+
+- Organized the Encapsulation class problems under the Week 7 package.
+
+- Completed practice problems on Piggy Bank, Quiz Scorecard, Nickname Tag, Locker Code, and Attendance Sheet.
+
+- Completed assignment problems on Health Bar, Playlist, Password Checker, Traffic Light, and Shopping Cart.
+
+**Next Session Plan:**
+
+- Continue with the next session's programming problems.
+
+- Maintain the required GitHub branching and package structure.
+
+**Issues Faced:**
+
+- Faced some issues while implementing problems involving encapsulation, access control, immutable objects, and data validation.
+
+- Corrected the implementations after testing the different cases.
+
+---
 ## Date: 12-09-2026
+
 **Today's Work:**
 
 - Completed Week 6 Classes and Objects class problems.
