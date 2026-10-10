@@ -1,7 +1,6 @@
 # Step_semester_3
 step program weekly assignments (java)
 ## Date: 12-09-2026
-
 **Today's Work:**
 
 - Completed Week 6 Classes and Objects class problems.
