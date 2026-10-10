@@ -1,5 +1,30 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 12-09-2026
+
+**Today's Work:**
+
+- Completed Week 6 Classes and Objects class problems.
+
+- Organized the Classes and Objects problems under the Week 6 package.
+
+- Completed problems on PlacementRecord, MessWallet, Course, IdCard, and Student.
+
+- Practiced constructors, arrays of objects, encapsulation, constructor chaining, object references, and static members.
+
+**Next Session Plan:**
+
+- Continue with the next session's programming problems.
+
+- Maintain the required GitHub branching and package structure.
+
+**Issues Faced:**
+
+- Faced some issues while implementing problems involving constructors, object references, and static members.
+
+- Corrected the implementations after testing the different cases.
+
+---
 ## Date: 05-09-2026
 
 **Today's Work:**
