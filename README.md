@@ -1,5 +1,32 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 26-09-2026
+
+**Today's Work:**
+
+- Completed Week 8 Inheritance and Polymorphism class problems.
+
+- Organized the Inheritance and Polymorphism class problems under the Week 8 package.
+
+- Completed practice problems on Payment System Fee Calculation, Library Item Due Date Calculator, Delivery Fee Calculator, Examination Question Grader, and Public Transport Fare Calculator.
+
+- Completed assignment problems on Canteen Billing Counter, Campus Parking Charge Calculator, Hostel Electricity Bill, Festival Bonus Calculator, and Streaming Plan Renewal Reminder.
+
+- Practiced concepts including inheritance, method overriding, runtime polymorphism, dynamic dispatch, and polymorphic collections.
+
+**Next Session Plan:**
+
+- Continue with the next session's programming problems.
+
+- Maintain the required GitHub branching and package structure.
+
+**Issues Faced:**
+
+- Faced some issues while implementing problems involving inheritance, method overriding, and runtime polymorphism.
+
+- Corrected the implementations after testing the different cases.
+
+---
 ## Date: 19-09-2026
 
 **Today's Work:**
