@@ -1,5 +1,32 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 03-10-2026
+
+**Today's Work:**
+
+- Completed Week 9 Abstraction and Interface class problems.
+
+- Organized the Abstraction and Interface class problems under the Week 9 package.
+
+- Completed practice problems on Garden Plot Area Report, Weekly Staff Pay, Library Late Fine Counter, Electricity Connection Billing, and Travel Booking with a Common Fee.
+
+- Completed assignment problems on Movie Ticket Counter, Parcel Shipping Desk, College Fee Counter, City Cab Fare Meter, and Home Appliance Energy Report.
+
+- Practiced concepts including abstraction, abstract classes, interfaces, multiple interface implementation, common methods, and class vs interface.
+
+**Next Session Plan:**
+
+- Continue with the next session's programming problems.
+
+- Maintain the required GitHub branching and package structure.
+
+**Issues Faced:**
+
+- Faced some issues while implementing problems involving abstract classes, interfaces, and shared functionalities.
+
+- Corrected the implementations after testing the different cases.
+
+---
 ## Date: 26-09-2026
 
 **Today's Work:**
