@@ -1,0 +1,49 @@
+package data_structures.class_problems;
+
+public class StudentResultCardGenerator {
+
+    static class Student {
+        String name;
+        int[] marks;
+
+        Student(String name, int[] marks) {
+            this.name = name;
+            this.marks = marks;
+        }
+
+        double average() {
+            int sum = 0;
+
+            for (int m : marks)
+                sum += m;
+
+            return (double) sum / marks.length;
+        }
+
+        char grade() {
+            double avg = average();
+
+            if (avg >= 75)
+                return 'B';
+            else if (avg >= 60)
+                return 'C';
+            else if (avg >= 40)
+                return 'D';
+            else
+                return 'F';
+        }
+
+        void display() {
+            System.out.printf("%s: Average %.1f, Grade %c%n",
+                    name.toUpperCase(), average(), grade());
+        }
+    }
+
+    public static void main(String[] args) {
+        Student s1 = new Student("Asha", new int[]{80, 90, 70});
+        Student s2 = new Student("Ravi", new int[]{60, 55, 50});
+
+        s1.display();
+        s2.display();
+    }
+}
