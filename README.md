@@ -1,5 +1,22 @@
 # Step_semester_3
 step program weekly assignments (java)
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Week 10 Java Data Structures class practice problems.
+- Completed the 10 class problems: Vowel and Consonant Counter, Word Reverser and Palindrome Checker, Even and Odd Numbers in a List, In-Place Array Reversal, Digit Sum and Number Reversal, Prime Number Checker, Factorial Calculation, Student Grade Assignment, Leap Year Detector, and Student Result Card Generator.
+- Practiced string manipulation, loops, conditional statements, array operations, and basic number processing through the class problems.
+- Completed the 5 assignment problems: Exam Score Band Counter, Class Attendance Tracker, Second-Best Score, Duty Roster Rotation, and Busiest Bus Row.
+- Applied binary search, array traversal, rotation, score analysis, and two-dimensional array operations while understanding time and space complexity.
+- Tested the programs in IntelliJ.
+
+**Next Session Plan:**
+- Continue with the next session's class problems and assignments.
+
+**Issues Faced:**
+- None
+
+---
 ## Date: 03-10-2026
 
 **Today's Work:**
